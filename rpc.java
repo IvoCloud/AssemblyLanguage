@@ -1,4 +1,10 @@
-//Ivaylo Ivanov
+/** Roche-Papier-Sciseau utilisant la classe Pep8
+ * 
+ * @author Ivaylo Ivanov
+ * @version 2019-09-30
+
+ */
+
 public class rpc extends Pep8{
     public static void main(String[] args) {
         final String INTRO = "----------------------------------\n" +
