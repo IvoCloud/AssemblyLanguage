@@ -1,5 +1,4 @@
-//Ivaylo Ivanov  IVAI08039506
-
+//Ivaylo Ivanov
 public class rpc extends Pep8{
     public static void main(String[] args) {
         final String INTRO = "----------------------------------\n" +
